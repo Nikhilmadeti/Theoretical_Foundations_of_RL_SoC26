@@ -20,6 +20,8 @@ RL_Project/
 │   ├── reward_exp2.png
 │   ├── reward_exp3.png
 └── README.md
+
+Note: The trained model (model.pth) is not included. Run python train.py to train the agent and generate the model before running python evaluate.py.
 ```
 
 ## Running the Project
